@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.filters import CommandStart, Command
 
 
-BOT_TOKEN = "8624977345:AAFrv_cY-YhVFRS-d8Ugj5GwP2aie4nfKks" 
+BOT_TOKEN = "" 
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()       # обработчик входящих обновлений
